@@ -1,5 +1,5 @@
 # Google HashCode 2020
-Online Qualification Round
+Team MOSTL - Online Qualification Round
 ### Results
 Ranking: 2008/10724 (Top 19% worldwide)
 
